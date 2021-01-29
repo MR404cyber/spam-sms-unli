@@ -89,6 +89,7 @@ class nyepam:
 		except reek.exceptions.ConnectionError:exit("[!] Kesalahan Pada Koneksi")
 		except (KeyboardInterrupt,EOFError):exit("[!] Exit")
 __import__("os").system("clear")
+os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
 print("[+] Script By MR.404:v")
 print("[+] Example : 08xxx")
 while True:
