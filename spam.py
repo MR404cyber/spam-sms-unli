@@ -90,13 +90,11 @@ class nyepam:
 		except (KeyboardInterrupt,EOFError):exit("[!] Exit")
 __import__("os").system("clear")
 os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
-def logo():
-    print("""
-\033[44;1mHello subscriberkh\033[00;1m
-\033[34;1m（\033[35;1m；\033[36;1m￣\033[32;1mェ\033[36;1m￣\033[34;1m）\033[32;1mspam ni bos
-  \033[37;1m[\033[32;1mAuthor:RAIHAN \033[37;1m]
-\033[37;1m[\033[32;1mMR.404 Developer\033[37;1m]
-""")
+
+print("\033[44;1mHello subscriberkh\033[00;1m")
+print("\033[34;1m（\033[35;1m；\033[36;1m￣\033[32;1mェ\033[36;1m￣\033[34;1m）\033[32;1mspam ni bos")
+print("\033[37;1m[\033[32;1mAuthor:RAIHAN \033[37;1m]")
+print("\033[37;1m[\033[32;1mMR.404 Developer\033[37;1m]")
 print("[+] Example : 08xxx")
 while True:
 	try:
