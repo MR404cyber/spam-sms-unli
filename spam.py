@@ -106,4 +106,3 @@ while True:
 			break
 	except Exception as ex:exit(str(ex))
 	except (KeyboardInterrupt,EOFError):exit("[!] Exit")
-© 2021 GitHub, Inc.
