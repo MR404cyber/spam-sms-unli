@@ -90,6 +90,7 @@ class nyepam:
 		except (KeyboardInterrupt,EOFError):exit("[!] Exit")
 __import__("os").system("clear")
 os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
+\033[44;1mHELLO SUBSCRIBERKU\033[00;1m
 print("TAMPILAN SEDERHANA ASALKAN WORK ANJIN*")
 print("[+] Script By MR.404:v")
 print("[+] Example : 08xxx")
